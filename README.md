@@ -1,5 +1,5 @@
 <p float="left">
-    <img src="5dce75d3e2ac6b81854ed1228068c058.jpg" width="500" align="left">
+    <img src="5dce75d3e2ac6b81854ed1228068c058.jpg" width="400" align="left">
         <p float="left">
         <samp>
         <br>
@@ -26,7 +26,7 @@
                 - GIT;<br>
                 - IDE: eclipse;<br>
                 - Text Editor: VScode<br>
-                - Terminal: Alacritty with <a href="">https://github.com/ohmyzsh/ohmyzsh</a>ZSH<br>
+                - Terminal: Alacritty with <a href="https://github.com/ohmyzsh/ohmyzsh">ZSH</a><br>
                 - <a href="https://github.com/asdf-vm/asdf">ASDF</a><br>
             <br>
             <br>
