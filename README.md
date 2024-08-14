@@ -4,7 +4,7 @@
         <samp>
         <br>
         <br>
-        about me:<br>
+        About me:<br>
             - He/him<br>
             - Brazilian<br>
             - Learning English<br>
