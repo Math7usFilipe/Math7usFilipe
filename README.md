@@ -1,16 +1,35 @@
-## Hi there 👋
-
-<!--
-**Math7usFilipe/Math7usFilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+    <img src="imgs/5dce75d3e2ac6b81854ed1228068c058.jpg" width="500" align="left">
+        <p float="left">
+        <samp>
+        <br>
+        <br>
+        about me:<br>
+            - He/him<br>
+            - Brazilian<br>
+            - Learning English<br>
+            - Computer engineering student<br>
+            <br>
+            <br>
+            Langs:<br>
+                --> Java | JavaScript
+            <br>
+            Learning:<br>
+                --> C/C++| Python | Spring Boot | JavaFX | MySQL | MongoDB
+            <br>
+            <br>
+            OS:<br>
+                --> arch linux(main), win11.
+            <br>
+            <br>
+            Tools:<br>
+                - GIT;<br>
+                - IDE: eclipse;<br>
+                - Text Editor: VScode<br>
+                - Terminal: Alacritty with <a href="">https://github.com/ohmyzsh/ohmyzsh</a>ZSH<br>
+                - <a href="https://github.com/asdf-vm/asdf">ASDF</a><br>
+            <br>
+            <br>
+        </samp>
+        </p>
+</p>        
