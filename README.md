@@ -8,7 +8,6 @@
             - He/him;<br>
             - Brazilian;<br>
             - Learning English;<br>
-            - Computer engineering student;<br>
             <br>
             <br>
             Langs:<br>
