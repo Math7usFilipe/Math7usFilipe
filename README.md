@@ -11,7 +11,7 @@
             <br>
             <br>
             Langs:<br>
-                --> Java | JavaScript.
+                --> Java
             <br>
             Learning:<br>
                 --> C/C++| Python | Java | Spring Boot | MySQL | MongoDB.
