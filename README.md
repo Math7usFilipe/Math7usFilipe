@@ -14,7 +14,7 @@
                 --> Java
             <br>
             Learning:<br>
-                --> C/C++| Python | Java | Spring Boot | MySQL | MongoDB.
+                --> C/C++| Python | Java | Spring Bot | MySQL | MongoDB.
             <br>
             <br>
             OS:<br>
