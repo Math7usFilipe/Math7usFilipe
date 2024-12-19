@@ -25,6 +25,8 @@
                 - GIT;<br>
                 - IDE: eclipse;<br>
                 - Text Editor: VScode<br>
+                - Spring Boot;<br>
+                - Spring Cloud;<br>
                 - Terminal: Alacritty with <a href="https://github.com/ohmyzsh/ohmyzsh">ZSH</a><br>
                 - <a href="https://github.com/asdf-vm/asdf">ASDF.</a><br>
             <br>
